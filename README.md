@@ -1,1 +1,2 @@
-# Colour-change-Magic
+# collisionAlgorithm
+Algorithm to detect collision between two objects
